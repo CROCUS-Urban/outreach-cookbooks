@@ -17,8 +17,8 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/CROCUS-Urban/outreach-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CROCUS-Urban/outreach-cookbook" />
 </a>
 
 ## Structure
