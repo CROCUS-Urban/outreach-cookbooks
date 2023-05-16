@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/104843704?s=400&u=8dcf993ebca6fe7ee7e7840e34eda7f614195cda&v=4" alt="CROCUS Logo" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# CROCUS Outreach Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
