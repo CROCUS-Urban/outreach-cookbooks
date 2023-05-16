@@ -1,4 +1,4 @@
-<img src="https://github.com/organizations/CROCUS-Urban/settings/profile" alt="CROCUS Logo" width="300"/>
+<img src="https://avatars.githubusercontent.com/u/104843704?s=400&u=8dcf993ebca6fe7ee7e7840e34eda7f614195cda&v=4" alt="CROCUS Logo" width="300"/>
 
 # (Replace_with_your_title) Cookbook
 
